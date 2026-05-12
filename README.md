@@ -47,3 +47,6 @@ Python, SQL, Excel, Jupyter Notebook
 
 Outcome
 A practical forecasting framework for revenue planning, staffing, and seasonal demand management in resort operations.
+
+
+This project was developed independently as part of self-learning in forecasting and decision support systems.
